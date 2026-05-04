@@ -1,0 +1,7 @@
+.hero {
+  display: flex;
+  min-height: 100vh;
+  background: #f5e6a8;
+  position: relative;
+  overflow: hidden;
+}

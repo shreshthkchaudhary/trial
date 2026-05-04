@@ -1,0 +1,17 @@
+.order-btn {
+  margin-top: 40px;
+  padding: 16px 35px;
+  background: #e63900;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: background 0.3s ease;
+  width: fit-content;
+}
+
+.order-btn:hover {
+  background: #cc3300;
+}

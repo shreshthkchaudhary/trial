@@ -1,0 +1,21 @@
+.side-banner {
+  position: fixed;
+  right: 0;
+  top: 35%;
+  background: #e63900;
+  color: white;
+  padding: 18px 12px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  z-index: 100;
+  border-radius: 4px 0 0 4px;
+  transition: background 0.3s ease;
+}
+
+.side-banner:hover {
+  background: #cc3300;
+}
